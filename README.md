@@ -44,7 +44,7 @@ And the methods:
 
 ## <a id='use'>[How to use](#topics)</a>
 1. Upload `request_with_scala.dbc` or `request_with_scala.scala` on your Databricks Workspace;
-2. Install the packages listed in Cluster Configs;
+2. Install the packages listed in [Cluster Configs](#configs);
 3. Open a PR with your improvements!
 
 ## <a id='next'>[Next steps](#topics)</a>
