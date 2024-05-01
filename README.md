@@ -19,7 +19,7 @@ This JVM is necessary to enable `java.net.http.HttpRequest`** in Databricks and 
 
 *DBR 11.3 until 14.3 are tested and is not expected incompatibility.
 
-**error found: `BootstrapMethodError: java.lang.NoClassDefFoundError: java/net/http/HttpRequest`. Solution find [here](com.softwaremill.sttp.tapir:tapir-sttp-client_2.12:1.10.6).
+**error found: `BootstrapMethodError: java.lang.NoClassDefFoundError: java/net/http/HttpRequest`. Solution find [here](https://docs.databricks.com/en/dev-tools/sdk-java.html#create-a-cluster-that-uses-jdk-17).
 
 
 ## Class ReadRequest
