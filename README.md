@@ -1,7 +1,7 @@
 # Welcome to request_with_scala
 This project has educational goals and aims to explore how to use **_Scala in Databricks_**, consuming an API, and dealing with the response using Spark and native solutions.
 
-### **link to the solution in Databrick --> [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3776439524338690/2632202910148279/5975377984582142/latest.html) <--**
+### **link to the solution in Databricks --> [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3776439524338690/2632202910148279/5975377984582142/latest.html) <--**
 
 # <a id='topics'>Topics</a>
 - [The Source](#source)
